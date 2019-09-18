@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'kalpurush_ansiregular';
+    src: url('../fonts/f3/kalpurush_ansi_1-webfont.eot');
+    src: url('../fonts/f3/kalpurush_ansi_1-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/f3/kalpurush_ansi_1-webfont.woff2') format('woff2'),
+         url('../fonts/f3/kalpurush_ansi_1-webfont.woff') format('woff'),
+         url('../fonts/f3/kalpurush_ansi_1-webfont.ttf') format('truetype'),
+         url('../fonts/f3/kalpurush_ansi_1-webfont.svg#kalpurush_ansiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'solaimanlipinormal';
+    src:url('../fonts/f2/solaimanlipi-webfont.eot');
+    src: url('../fonts/f2/solaimanlipi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/f2/solaimanlipi-webfont.woff2') format('woff2'),
+         url('../fonts/f2/solaimanlipi-webfont.woff') format('woff'),
+         url('../fonts/f2/solaimanlipi-webfont.ttf') format('truetype'),
+         url('../fonts/f2/solaimanlipi-webfont.svg#solaimanlipinormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
